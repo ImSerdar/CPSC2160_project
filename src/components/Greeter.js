@@ -5,7 +5,7 @@ export function Greeter() {
 
     return (
         <div>
-            <h1>Welcome to the Ultimate Expence Tracker</h1>
+            <h1>Welcome to the Ultimate Expense Tracker</h1>
         </div>
     );
 
