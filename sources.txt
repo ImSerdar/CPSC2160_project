@@ -1,0 +1,6 @@
+Inspired from this and used as a tutorial to add functionality and use of Context:
+https://github.com/bradtraversy/expense-tracker-react/tree/master/src
+https://www.youtube.com/watch?v=XuFDcZABiDQ&ab_channel=TraversyMedia
+
+Context API tutorial:
+https://www.youtube.com/watch?v=35lXWvCuM8o&ab_channel=DevEd
